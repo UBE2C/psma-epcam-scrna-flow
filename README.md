@@ -1,2 +1,3 @@
 # psma-epcam-scrna-flow
-R scripts and analysis pipeline used for the manuscript EpCAM and PSMA: potential predictors of treatment outcomes for PSMA-targeted alpha therapies in metastatic castration-resistant prostate cancer. \n This repository contains data-processing and plotting scripts for flow cytometry and single-cell RNA-seq analyses.
+R scripts and analysis pipeline used for the manuscript EpCAM and PSMA: potential predictors of treatment outcomes for PSMA-targeted alpha therapies in metastatic castration-resistant prostate cancer. <br />
+This repository contains data-processing and plotting scripts for flow cytometry and single-cell RNA-seq analyses.
