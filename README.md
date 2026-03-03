@@ -1,5 +1,5 @@
 # psma-epcam-scrna-flow <br />
-This is a repository linked to the manuscript [**EpCAM–PSMA: Potential predictors of treatment outcomes for PSMA-targeted alpha therapies in metastatic castration-resistant prostate cancer](https://www.cell.com/molecular-therapy-family/oncology/fulltext/S2950-3299(26)00019-6)
+This is a repository linked to the manuscript **[EpCAM–PSMA: Potential predictors of treatment outcomes for PSMA-targeted alpha therapies in metastatic castration-resistant prostate cancer](https://www.cell.com/molecular-therapy-family/oncology/fulltext/S2950-3299(26)00019-6)
 Bakos, Gábor et al. Molecular Therapy Oncology, Volume 34, Issue 1, 201143** <br />
 <br />
 
